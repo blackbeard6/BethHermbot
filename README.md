@@ -1,5 +1,5 @@
-# BethHermbot
-A chess AI designed by Tucker Simpson and Harry Irwin.
+# BotHarmon
+A chess AI built in
 
 ## How to run the program:
 Use test_chess.py or gui_chess.py to see the AIs in action. The most sophisticated bots are the AlphaBetaAIv2 and the 
